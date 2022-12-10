@@ -31,3 +31,11 @@ var removeNthFromEnd = function (head, n) {
 
   return head;
 };
+
+// Fine the length of the LinkList
+// let length = 0;
+// let currentNode = head
+// while (currentNode !== null) {
+//   currentNode = currentNode.next;
+//   length++;
+// }
